@@ -1,3 +1,11 @@
+## [0.4.2](https://github.com/firebaseui/ng-bootstrap/compare/v0.4.1...v0.4.2) (2020-08-08)
+
+
+### Bug Fixes
+
+* **package:** include https://github.com/firebaseui/ng-bootstrap/pull/42/files
+
+
 ## [0.4.1](https://github.com/firebaseui/ng-bootstrap/compare/v0.4.0...v0.4.1) (2019-01-10)
 
 
